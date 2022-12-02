@@ -1,0 +1,9 @@
+#ignore not committed files 
+*.db
+*.parquet
+*.csv
+*.zip
+*.pdf
+
+#hidden system files
+*.DS_Store
