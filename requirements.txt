@@ -1,0 +1,10 @@
+#Python package that had to conda install or pip install.
+requests
+beautifulsoup4
+jupyter
+pandas
+numpy
+sqlalchemy
+matplotlib
+geopandas
+pyarrow
