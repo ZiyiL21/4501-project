@@ -19,7 +19,7 @@ QUERY_5: "10_windiest_days.sql"
 QUERY_6: "trips_precipitation_windspeed.sql"   
 
 ### ***requirements.txt***   
-The txt document includes all the packages used for this project. 
+The txt document includes all the packages used for this project. Those packages will also be imported or installed at the beginning of the source code file.
 
 
 ### ***.gitignore***   
