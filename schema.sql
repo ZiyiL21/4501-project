@@ -19,12 +19,11 @@ CREATE TABLE IF NOT EXISTS taxi_trips
 (
     id INTEGER PRIMARY KEY,
     pickup_datetime DATE,
-    PULocationID INTETER
-    DOLocationID INTETER
     pickup_longitude FLOAT,
     pickup_latitude FLOAT,
     dropoff_longitude FLOAT,
     dropoff_latitude FLOAT,
+    tip_amount FLOAT,
     distance FLOAT
 )
 
