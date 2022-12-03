@@ -3,7 +3,7 @@
 UNIs:[zz2991,zl3226]
 ## Introduction of Files
 ### ***IEOR 4501-final project-group 8.ipynb***  
-The source code of the project including all required functions, downloaded and cleaned datapoints, and visualizations.
+The source code of the project including all required functions, downloaded and cleaned datapoints, SQL queries, and visualizational outputs.
    
 ### ***schema.sql***   
 The source SQL file we used to store 4 required tables of cleaned data: "taxi_trips", "uber_trips", "hourly_weather", and "daily_weather".
