@@ -1,7 +1,13 @@
 # 4501-project
 ### Project Group 8   
 UNIs:[zz2991,zl3226]
-## Introduction of Files
+
+## Project Overview
+This project uses several libraries to import, clean, sample, store and visualize data. 
+
+There are three major sources of NYC data used: 1. Uber Rides; 2. Yellow Taxi Rdes; 3. Weather Data. The project maily analyzes the above three data source between Jan 2009 and Jun 2015 and provides the related summaries in a single Jupyter Notebbok.
+
+## Introduction of Provided Files
 ### ***IEOR 4501-final project-group 8.ipynb***  
 The source code of the project including all required functions, downloaded and cleaned datapoints, SQL queries, and visualizational outputs.
    
