@@ -37,3 +37,11 @@ CREATE TABLE IF NOT EXISTS uber_trips
     dropoff_latitude FLOAT,
     distance FLOAT
 )
+
+CREATE TABLE IF NOT EXISTS daily_sunrise
+(
+    id INTEGER PRIMARY KEY,
+    DATE DATE,
+    Sunrise FLOAT,
+    Sunset FLOAT
+)
