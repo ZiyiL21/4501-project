@@ -14,3 +14,4 @@ scipy.stats
 from tqdm import tqdm
 from shapely.geometry import Point
 from math import radians, cos, sin, asin, sqrt
+from matplotlib.animation import FuncAnimation
