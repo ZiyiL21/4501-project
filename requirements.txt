@@ -1,10 +1,16 @@
 #Python package that had to conda install or pip install.
-requests
-beautifulsoup4
-jupyter
-pandas
-numpy
-sqlalchemy
+bs4
 matplotlib
+pandas
 geopandas
-pyarrow
+requests
+sqlalchemy
+pyarrow.parquet
+re
+numpy
+sys
+warnings
+scipy.stats
+from tqdm import tqdm
+from shapely.geometry import Point
+from math import radians, cos, sin, asin, sqrt
