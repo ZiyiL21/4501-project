@@ -4,6 +4,13 @@
 *.csv
 *.zip
 *.pdf
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.xml
+*.shx
 
 #hidden system files
 *.DS_Store
